@@ -7,4 +7,3 @@
 <br>
 <img src='https://github-readme-stats.vercel.app/api?username=GithubAvyay&show_icons=true&theme=merko&count_private=true&line_height=40' align="left" />
 <br>
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=GithubAvyay&theme=tokyonight&hide_langs_below=4' align="middle" />
