@@ -8,3 +8,5 @@
 <img src='https://github-readme-stats.vercel.app/api?username=GithubAvyay&show_icons=true&theme=merko&count_private=true&line_height=40' align="left" />
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GithubAvyay&amp;theme=tokyonight&amp;hide_langs_below=4" style="max-width: 100%;">
+<br>
+<img src='https://github-readme-stats.vercel.app/api?username=GithubAvyay&show_icons=true&theme=merko&count_private=true&line_height=40' align="left" />
