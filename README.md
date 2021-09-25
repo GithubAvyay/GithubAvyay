@@ -1,6 +1,6 @@
 - Hi there, I am @GithubAvyay 👋
 - 🌱 I’m currently learning about bootstrap.
-- 👀 I’m interested in CSS, Python, Javascript and HTML
+- 👀 I’m interested in CSS, Python, Javascript and HTML.
 - 😎 Pronouns: He/His...
 - ⚡ Note: Please follow and star if you like my repositories
 
