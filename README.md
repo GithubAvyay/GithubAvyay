@@ -5,7 +5,7 @@
 - ⚡ Note: Please follow and star if you like my repositories....
 
 <br>
-<img src='https://github-readme-stats.vercel.app/api?username=GithubAvyay&show_icons=true&theme=unitedtheme&count_private=true&line_height=40' align="left" />
+<img src='https://github-readme-stats.vercel.app/api?username=GithubAvyay&show_icons=true&theme=beauty&count_private=true&line_height=40' align="left" />
 <br>
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=GithubAvyay&theme=tokyobeauty&hide_langs_below=4' align="middle" />
 <br>
